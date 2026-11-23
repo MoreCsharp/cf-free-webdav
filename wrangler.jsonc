@@ -16,7 +16,7 @@
   },
   "r2_buckets": [
     {
-      "binding": "FILES"
+      "binding": "FILES", "bucket_name": "cf-free-webdav-files"
     }
   ],
   "durable_objects": {
